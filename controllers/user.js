@@ -1,4 +1,4 @@
-const { User, Thought } = require('../models');
+const { User, Thought } = require('.//../models');
 
 const user = {
  
@@ -107,4 +107,4 @@ const user = {
   }
 };
 
-module.exports = user
+module.exports = user;

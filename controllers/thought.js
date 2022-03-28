@@ -131,4 +131,4 @@ const thought = {
 
 };
 
-module.exports = thought
+module.exports = thought;
